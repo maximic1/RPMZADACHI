@@ -1,0 +1,16 @@
+C:\Users\tropo\source\repos\RPM\RPM\bin\Debug\net5.0\RPM.exe
+C:\Users\tropo\source\repos\RPM\RPM\bin\Debug\net5.0\RPM.deps.json
+C:\Users\tropo\source\repos\RPM\RPM\bin\Debug\net5.0\RPM.runtimeconfig.json
+C:\Users\tropo\source\repos\RPM\RPM\bin\Debug\net5.0\RPM.runtimeconfig.dev.json
+C:\Users\tropo\source\repos\RPM\RPM\bin\Debug\net5.0\RPM.dll
+C:\Users\tropo\source\repos\RPM\RPM\bin\Debug\net5.0\ref\RPM.dll
+C:\Users\tropo\source\repos\RPM\RPM\bin\Debug\net5.0\RPM.pdb
+C:\Users\tropo\source\repos\RPM\RPM\obj\Debug\net5.0\RPM.csproj.AssemblyReference.cache
+C:\Users\tropo\source\repos\RPM\RPM\obj\Debug\net5.0\RPM.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tropo\source\repos\RPM\RPM\obj\Debug\net5.0\RPM.AssemblyInfoInputs.cache
+C:\Users\tropo\source\repos\RPM\RPM\obj\Debug\net5.0\RPM.AssemblyInfo.cs
+C:\Users\tropo\source\repos\RPM\RPM\obj\Debug\net5.0\RPM.csproj.CoreCompileInputs.cache
+C:\Users\tropo\source\repos\RPM\RPM\obj\Debug\net5.0\RPM.dll
+C:\Users\tropo\source\repos\RPM\RPM\obj\Debug\net5.0\ref\RPM.dll
+C:\Users\tropo\source\repos\RPM\RPM\obj\Debug\net5.0\RPM.pdb
+C:\Users\tropo\source\repos\RPM\RPM\obj\Debug\net5.0\RPM.genruntimeconfig.cache
